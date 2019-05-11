@@ -11,12 +11,15 @@
 
 ## SQL
 
-* [0 to 1](sql-1/0-to-1.md)
-* [Untitled](sql-1/untitled.md)
+* [0 to 1](sql/0-to-1.md)
+* [Untitled](sql/untitled.md)
 
 ## ML/DS
 
-* [Untitled](ml-ds/untitled.md)
+* [Spark](ml-ds/untitled.md)
+* [Git](ml-ds/git.md)
+* [Tutorial Links](ml-ds/tutorial-links.md)
+* [MOOCs](ml-ds/moocs.md)
 
 ## Agile
 
